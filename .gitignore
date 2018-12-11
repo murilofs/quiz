@@ -1,0 +1,11 @@
+# Global
+.*.swp
+.DS_Store
+
+# Application
+data/
+
+# PHPStorm
+.idea/
+# SSL Certs
+etc/ssl/
